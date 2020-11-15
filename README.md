@@ -1,1 +1,1 @@
-recursive-trampoline
+An example to use a recursive while with a trampoline

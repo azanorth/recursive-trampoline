@@ -1,0 +1,11 @@
+{
+  "name": "recursive-trampoline",
+  "version": "1.0.0",
+  "description": "An example to use a recursive while with a trampoline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "P. H.",
+  "license": "ISC"
+}
